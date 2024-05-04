@@ -1,2 +1,2 @@
 # pglife-website
-I will add content about it later
+This is just a project from internshala that i made to learn the concepts.
